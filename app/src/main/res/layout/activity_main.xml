@@ -14,7 +14,8 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:hint="Amount"
-        android:inputType="numberDecimal"/>
+        android:inputType="number"
+        android:maxLength="8"/>
 
 
     <Button
